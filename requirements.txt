@@ -6,5 +6,5 @@ streamlit
 plotly
 pycaret 
 xgboost
+phik==0.12.2
 streamlit-pandas-profiling
-phik
