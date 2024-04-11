@@ -4,3 +4,4 @@ visions
 ydata_profiling
 streamlit
 plotly
+streamlit-pandas-profiling
