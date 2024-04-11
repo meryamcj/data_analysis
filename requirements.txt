@@ -2,3 +2,4 @@ pandas
 visions==0.7.5
 ydata_profiling
 streamlit
+plotly
