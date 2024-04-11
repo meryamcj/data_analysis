@@ -1,6 +1,6 @@
 pandas
 numba
-visions==0.7.5
+visions
 ydata_profiling
 streamlit
 plotly
